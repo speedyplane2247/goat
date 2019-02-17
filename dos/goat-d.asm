@@ -1,5 +1,5 @@
 int 21h
-db "592 goat file: MS-DOS", 1
+db "592 goat filE: MS-DOS", 1
 db "goat-m.asm", 2
 db "Fork: github.com/speedyplane2247/goat", 3
 db "Master: github.com/speedyplane2247/goat", 4 ; Don't remove!
