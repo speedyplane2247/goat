@@ -1,7 +1,7 @@
 @echo off
 title GOAT File >> null
 rem Don't show error message if on DOS
-echo This file should be 596 bytes long.
+echo This file should be 592 bytes long.
 rem JUNK CODE JUNK CODE
 rem JUNK CODE JUNK CODE
 rem JUNK CODE JUNK CODE
