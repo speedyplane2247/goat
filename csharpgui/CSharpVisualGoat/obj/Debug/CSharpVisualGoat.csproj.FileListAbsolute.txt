@@ -1,0 +1,13 @@
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\bin\Debug\CSharpVisualGoat.exe.config
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\bin\Debug\CSharpVisualGoat.exe
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\bin\Debug\CSharpVisualGoat.pdb
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.csprojResolveAssemblyReference.cache
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.Form1.resources
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.Properties.Resources.resources
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.csproj.GenerateResource.Cache
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.exe
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.pdb
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\bin\Debug\CSharpVisualGoat.exe.manifest
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\bin\Debug\CSharpVisualGoat.application
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.exe.manifest
+c:\users\noah\documents\visual studio 2015\Projects\CSharpVisualGoat\CSharpVisualGoat\obj\Debug\CSharpVisualGoat.application

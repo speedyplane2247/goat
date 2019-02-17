@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CSharpVisualGoat.exe" version="1.0.0.0" publicKeyToken="29f36b80ec413ecf" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CSharpVisualGoat" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CSharpVisualGoat.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSharpVisualGoat.exe" size="9640">
+      <assemblyIdentity name="CSharpVisualGoat" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VGz0Q0JlpNN4jshJX6RUKI+6bB/SIjMcrJuf+FdJGkQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CSharpVisualGoat.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JETAZED\Noah" issuerKeyHash="f3cb0bdbcb0433ba82a1d8272c256ccd4ca759db" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>smf9qo2YP2w3HYOInxekrVRLMx8ixxH+2NiiOcLu4ys=</DigestValue></Reference></SignedInfo><SignatureValue>E7jdFC5fX9JGLFKFbY7YbrXVFV4Mn+YZFHE3wDAb4JzsZGHO3dydOoYp7WGGk96kSVDyg3Dc4QP5HT+NTv5iLUTZ0Ck9gervT2NvFX8tKzrOENVS59qYVqnLONYpHKY7lYqlaJTab7pD9ntKAmENX2H6KDUBg+9UUxmwgnq4azQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>18pJoMQs+KYN2sezU/2EngzaV3L+ufdbXczf599ggXiGwj3yEjH8/7N81FoK9Fcu8MskhqsuH7M57nrgBPZR1hbvFp56lDI/vOGymqh8nrQ46F5imcwLWEd0a+CR+HKfMYir0//zB46Xc8A1ONh+igpEICJoAFg3HXTCtPMFpHE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2be3eec239a2d8d8fe11c7221f334b54ada4179f88831d376c3f988daafd67b2" Description="" Url=""><as:assemblyIdentity name="CSharpVisualGoat.exe" version="1.0.0.0" publicKeyToken="29f36b80ec413ecf" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JETAZED\Noah</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vb741rM/jSUjdmA2Fq2Ma/aGTFj9HdYACjfHjLgpir4=</DigestValue></Reference></SignedInfo><SignatureValue>VknbLKqax43XNUFkH2snsqDt7Z8mp+32yEKJNOe0XbVLZKe2/ZPLd0KPkkHIlbirqDacdnA5lVBHbSCAPzVyD08CFgk7dBTD6k84y4bKzW3IfEDdCK72abWRUic1WhT+vQrx8MvZwWs35uUfk9owfZA8ikyCGHsDA8evJ7wUqEc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>18pJoMQs+KYN2sezU/2EngzaV3L+ufdbXczf599ggXiGwj3yEjH8/7N81FoK9Fcu8MskhqsuH7M57nrgBPZR1hbvFp56lDI/vOGymqh8nrQ46F5imcwLWEd0a+CR+HKfMYir0//zB46Xc8A1ONh+igpEICJoAFg3HXTCtPMFpHE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQHS0tC+LYprhC3lTtdA8wQTANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgASgBFAFQAQQBaAEUARABcAE4AbwBhAGgwHhcNMTkwMjE3MDQyNjA1WhcNMjAwMjE3MTAyNjA1WjAjMSEwHwYDVQQDHhgASgBFAFQAQQBaAEUARABcAE4AbwBhAGgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANfKSaDELPimDdrHs1P9hJ4M2ldy/rn3W13M3+ffYIF4hsI98hIx/P+zfNRaCvRXLvDLJIarLh+zOe564AT2UdYW7xaeepQyP7zhspqofJ60OOheYpnMC1hHdGvgkfhynzGIq9P/8weOl3PANTjYfooKRCAiaABYNx10wrTzBaRxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAK4dE1BsWY6jknTHYpaEtgDRuVIuTJurVAuUJ4gqkEMGnANMLHDNyW9ae5rW4nwUpr+LZvpejHkUfDXgk56dIajVbTyz5fX57eDn1NHoTh2EIOn4P+7HW+Kmmwrb95R/n3fgnSNQ2BbJnI4DaAVOsDO9waYSSjgHOVX/gjO4McJc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
