@@ -1,0 +1,11 @@
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\bin\Debug\VisualBasicGoatGUI.exe.config
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\bin\Debug\VisualBasicGoatGUI.exe
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\bin\Debug\VisualBasicGoatGUI.pdb
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\bin\Debug\VisualBasicGoatGUI.xml
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\obj\Debug\VisualBasicGoatGUI.vbprojResolveAssemblyReference.cache
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\obj\Debug\VisualBasicGoatGUI.Form1.resources
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\obj\Debug\VisualBasicGoatGUI.Resources.resources
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\obj\Debug\VisualBasicGoatGUI.vbproj.GenerateResource.Cache
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\obj\Debug\VisualBasicGoatGUI.exe
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\obj\Debug\VisualBasicGoatGUI.xml
+c:\users\noah\documents\visual studio 2015\Projects\VisualBasicGoatGUI\VisualBasicGoatGUI\obj\Debug\VisualBasicGoatGUI.pdb
