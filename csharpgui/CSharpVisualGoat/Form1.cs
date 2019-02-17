@@ -44,5 +44,10 @@ namespace CSharpVisualGoat
                 MessageBox.Show("Failed to show data! Maybe it doesn't exist?");
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This file should be 17,408 long."); // no file size change?? owo; also sammy sux jk ily
+        }
     }
 }
